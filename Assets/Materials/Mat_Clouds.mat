@@ -58,7 +58,7 @@ Material:
     - _QueueOffset: 0
     - _Vertex_Offset_Amount: 100
     m_Colors:
-    - _Color: {r: 3.9999998, g: 3.9999998, b: 3.9999998, a: 1}
+    - _Color: {r: 4, g: 4, b: 4, a: 1}
     - _Color_1: {r: 0, g: 0, b: 0, a: 0}
     - _Power: {r: -0.17, g: 0.99, b: 0, a: 0}
     - _Tiling: {r: 0.1, g: 0.1, b: 0.1, a: 0.1}
